@@ -29,7 +29,7 @@ https://Peolite.github.io
 
 
 ### What I learned
- In this Project by Frntend Mentor in building a QR code, i just learnd a few things like how to box-sizing in css, how to webkit-text-size- adjust and how to commit my project to my resopsitorry in github.
+ In this Project by Frontend Mentor in building a QR code, i just learnd a few things like how to box-sizing in css, how to webkit-text-size- adjust and how to commit my project to my resopsitorry in github.
 
 To see how you can add code snippets, see below:
 
